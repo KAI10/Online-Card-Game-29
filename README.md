@@ -10,11 +10,31 @@ This is a java implementation of popular card game 29. Players on the same local
 * At the end of the game, total points are calculated for both teams. If the caller team manages to get no less point than the call, then the team wins and the other team loses and vice versa.
 
 ## Points Instruction:  
-Card     | J | 9 | A | 10 | K | Q | 8 | 7  
----------|---|---|---|----|---|---|---|--  
-Points   | 3 | 2 | 1 | 1  | 0 | 0 | 0 | 0  
-Priority | 7 | 6 | 5 | 4  | 3 | 2 | 1 | 0  
+<table>
+  <tr>
+    <th> Card </th>
+    <td>J</td><td>9</td><td>A</td>
+    <td>10</td><td>K</td><td>Q</td>
+    <td>8</td><td>7</td>
+  </tr>
+  <tr>
+    <th>Points</th>
+    <td>3</td><td>2</td><td>1</td>
+    <td>1</td><td>0</td><td>0</td>
+    <td>0</td><td>0</td>
+  </tr>
+  <tr>
+    <th>Priority</th>
+    <td>7</td><td>6</td><td>5</td>
+    <td>4</td><td>3</td><td>2</td>
+    <td>1</td><td>0</td>
+  </tr>
+</table>
 
 ## Screenshots
-<img src="https://drive.google.com/uc?id=1_sNWScSjHeQggUYJnBoVxml44fuscR0t" width=400> | <img src="https://drive.google.com/uc?id=1V5sXmE3cJDxUDB3B4jXapHPP65yX1SW8" width=400>
----|---
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/uc?id=1_sNWScSjHeQggUYJnBoVxml44fuscR0t" width=400></td>
+    <td><img src="https://drive.google.com/uc?id=1V5sXmE3cJDxUDB3B4jXapHPP65yX1SW8" width=400></td>
+  </tr>
+</table>
