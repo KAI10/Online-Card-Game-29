@@ -34,7 +34,7 @@ This is a java implementation of popular card game 29. Players on the same local
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?id=1_sNWScSjHeQggUYJnBoVxml44fuscR0t" width=400></td>
-    <td><img src="https://drive.google.com/uc?id=1V5sXmE3cJDxUDB3B4jXapHPP65yX1SW8" width=400></td>
+    <td><img src="https://drive.google.com/uc?id=1_sNWScSjHeQggUYJnBoVxml44fuscR0t" width="400"></td>
+    <td><img src="https://drive.google.com/uc?id=1V5sXmE3cJDxUDB3B4jXapHPP65yX1SW8" width="400"></td>
   </tr>
 </table>
